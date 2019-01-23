@@ -1,4 +1,4 @@
-# UCSD_Python4DS_projects
+# Python-Data-Science-Projects-UCSD
 UCSD Micro Masters Class, Python for Data Science, Submitted Projects
 
 This Repository contains two project completed for the above class.  This class is the first of 4 in UCSD micro masters class in Data Science.  These classes are available on edX.
